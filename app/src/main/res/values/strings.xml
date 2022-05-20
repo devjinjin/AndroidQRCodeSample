@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">QRCodeSample</string>
+    <string name="qrcode_call">QRCode 실행</string>
+</resources>
